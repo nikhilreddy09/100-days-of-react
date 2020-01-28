@@ -5,4 +5,6 @@ I am starting with Learn Reach Js by freecodecamp.org on Youtube on my first day
 
 
 <h1>Day 1</h1>
-1. I have started to learn ReactDOM and JSX.
+1. I have started to learn ReactDOM and JSX.<br>
+2. Functional Components.<br>
+3. Parent child Components.<br>
