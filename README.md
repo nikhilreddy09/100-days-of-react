@@ -34,4 +34,9 @@ we can use this statement in the file where we want to render the data.
   <code> export default "Function name"</code>
   <p>and then import the function in the file we are using it by using import statement as follows.</p>
   <code> import Name from "path"</code>
+  
+  <p>We can style the files in react by using css. we need to import the CSS file by using the import statement as follows . suppose the css file name is App.css then :</p>
+  <code>
+ import './App.css'
+</code>
 <p>I have started creating a react application called to-do-list, <a href="https://github.com/nikhilreddy09/to-do-list">Click here for repo.</a> </p>
