@@ -57,4 +57,4 @@ contact = {{name : "Nikhil" , phone : "1234567890" , email : "n@gmail.com"}}
  }
 </code>
 <p>In this way we can send data to the function using props and sending it in the form of objects.</p>
-                     
+<p>Here i have created a simple application to see how we can work with props in react : https://github.com/nikhilreddy09/props-react</p>
