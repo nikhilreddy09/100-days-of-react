@@ -3,6 +3,8 @@ This repository is dedicated to 100 days of react challenge where ill be posting
 
 I am starting with Learn React Js by freecodecamp.org on Youtube on my first day of react.
 
+<p>I have started creating a react application called to-do-list, <a href="https://github.com/nikhilreddy09/to-do-list">Click here for repo.</a> </p>
+
 
 <h1>Day 1</h1>
 1. I have started to learn ReactDOM and JSX.<br>
@@ -39,4 +41,20 @@ we can use this statement in the file where we want to render the data.
   <code>
  import './App.css'
 </code>
-<p>I have started creating a react application called to-do-list, <a href="https://github.com/nikhilreddy09/to-do-list">Click here for repo.</a> </p>
+
+<h1>Day 2</h1>
+1. props <br>
+<p>Inorder to get javascript into JSX file we use curly braces around it "{ }" . for example if we want to access a variable named age inside our jsx we do the following inside the opening and closing tags.
+ <code> <Tagopen>my age is {age} </tagclose></code>
+ <p>Props in react are used to send data to the function that we want to render on our screen . we can send props in form of javascript object . </p>
+ <code>  
+contact = {{name : "Nikhil" , phone : "1234567890" , email : "n@gmail.com"}} 
+</code> . 
+<p>We can send this object to the tag that it refers to and it is stored inside of props</p>
+<code>
+ function tag(props) {
+   console.log(props.contact.name)
+ }
+</code>
+<p>In this way we can send data to the function using props and sending it in the form of objects.</p>
+                     
