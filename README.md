@@ -97,3 +97,8 @@ constructor(){
 </code>
 <p>we use super() to access some of the components from the parent component class which we extend</p>
 <p>here state is something like an object which has values in it. we can access values in state inside render() by using this.state.name where name is the key of the state. </p>
+<h4>handling events in react</h4>
+<p>In react its we can handling events similar to how we handle in html but with slight difference. for example : if we have a button we can use <b>onClick={ () => { console.log("button clicked")} }</b> . here we have described a function inside curly braces to do the following event whenever the button is clicked. for further reference on events visit this URL : https://reactjs.org/docs/events.html#supported-events</p>
+
+<h4>Changing state in React</h4>
+<p>We can change the state in react by using setState method . i have created a small application which demonstrates a change of state when a button is clicked. https://github.com/nikhilreddy09/Changing-state-react</p>
