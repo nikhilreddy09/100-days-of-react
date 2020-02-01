@@ -61,3 +61,24 @@ contact = {{name : "Nikhil" , phone : "1234567890" , email : "n@gmail.com"}}
 <h1>Day 3</h1>
 <p>Today i have been learning about mapping components. </p>
 <p>I have included a small project on how mapping components work here : https://github.com/nikhilreddy09/mapping-components-react</p>
+<h1>Day 4</h1>
+<p>Today i have started learning about class components.</p>
+<p> We can use the class components by extending the class which we want to create with React.Component so that we can use some of the properties from Component.</p>
+<p>We need to put everything we want to render inside render function within class component for example :</p>
+<code>
+ class ToDoItem extends React.Component {
+     
+    render() {
+      return (
+        <div className="todo-item">
+            <input type="checkbox" checked={this.props.completed} />
+          <p>{this.props.text}</p>
+        </div>
+        )
+    }
+}
+
+</code>
+
+<p>Here we have created a class ToDoItem which extends React.Component and then used a render function to render the data within.</p>
+<p>In order to access props within class componnet we do that by using this.props.name to get the prop with key as name</p>
