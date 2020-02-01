@@ -82,3 +82,18 @@ contact = {{name : "Nikhil" , phone : "1234567890" , email : "n@gmail.com"}}
 
 <p>Here we have created a class ToDoItem which extends React.Component and then used a render function to render the data within.</p>
 <p>In order to access props within class componnet we do that by using this.props.name to get the prop with key as name</p>
+
+<h4>State</h4>
+<p> we use state instead of props so that we can change the incoming data . props are immutable but we can change the value of the state</p>
+<p> we can use state in our code as follows :</p>
+<code>
+constructor(){
+ super()
+ this.state = {
+                 key : "value" 
+              }
+}
+}
+</code>
+<p>we use super() to access some of the components from the parent component class which we extend</p>
+<p>here state is something like an object which has values in it. we can access values in state inside render() by using this.state.name where name is the key of the state. </p>
