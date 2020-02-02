@@ -102,3 +102,5 @@ constructor(){
 
 <h4>Changing state in React</h4>
 <p>We can change the state in react by using setState method . i have created a small application which demonstrates a change of state when a button is clicked. https://github.com/nikhilreddy09/Changing-state-react</p>
+<h1>Day 5</h1>
+<p>Today i have been learning more about state and the differences between state and props and how to use the setState function more efficiently.</p>
