@@ -108,3 +108,4 @@ constructor(){
 <p>I havent done really anything on day 6 and day 7 . i have been working on d3js and android as well . so couldnt find time for react these days. i will make sure that i dont repeat this again.</p>
 <h1>Day 8</h1>
 <p>Toady i have purchased a course from udemy https://www.udemy.com/course/react-the-complete-guide-incl-redux/ this is the course by Maximilian Schwarzmüller ,  which covers almost everything in React. i will be working on this course from today and will share the progress everyday.</p>
+<p>Today i have sucessfully completed the getting started module in the course where i saw why we use react , what are SPA's and everything. I also had a refresher training on ES6 JS where i saw how to use let and const keywords , arrow functions , Imports & Exports and classes </p>
