@@ -109,3 +109,15 @@ constructor(){
 <h1>Day 8</h1>
 <p>Toady i have purchased a course from udemy https://www.udemy.com/course/react-the-complete-guide-incl-redux/ this is the course by Maximilian Schwarzmüller ,  which covers almost everything in React. i will be working on this course from today and will share the progress everyday.</p>
 <p>Today i have sucessfully completed the getting started module in the course where i saw why we use react , what are SPA's and everything. I also had a refresher training on ES6 JS where i saw how to use let and const keywords , arrow functions , Imports & Exports and classes </p>
+<h1>Day 9</h1>
+<p>Today i have started learning about spread and rest operators.</p>
+<h4>Spread operator</h4>
+<p>we can use spread operator(...)to add elements to array or objects</p>
+<code> let number = [1,2,3]
+       let newnumber = [...number , 4,5]</code>
+ <p>Now if we console log new number it will take elements from the first array and add 4,5 and gives us the output as [1,2,3,4,5]</p>
+<h4>Rest operator</h4>
+<code> const f = (...args) => { return args.sort()}</code>
+<p>here the ...args takes in any number of arguments and stores it into array without actually specifying the number of arguments for the function.</p>
+<h4>Destructuring</h4>
+<p>used to easily extract array elements or object properties and store them in variables.</p>
