@@ -121,3 +121,5 @@ constructor(){
 <p>here the ...args takes in any number of arguments and stores it into array without actually specifying the number of arguments for the function.</p>
 <h4>Destructuring</h4>
 <p>used to easily extract array elements or object properties and store them in variables.</p>
+<h1>Day 10</h1
+<p> today i have completed the js refresher training and headed towards understanding how react works and JSX as well. had a good practice on props again and how React.CreateElement works . </p>
