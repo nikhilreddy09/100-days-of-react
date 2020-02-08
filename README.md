@@ -123,3 +123,5 @@ constructor(){
 <p>used to easily extract array elements or object properties and store them in variables.</p>
 <h1>Day 10</h1
 <p> today i have completed the js refresher training and headed towards understanding how react works and JSX as well. had a good practice on props again and how React.CreateElement works . </p>
+<h1>Day 11</h1>
+<p>Today i have gone through understanding props and state , Handling events with methods , Manipulating the states and using one of the react Hooks useState to change the state in a functional component and i have also checked the basics on stateless and statefull components.</p>
