@@ -125,3 +125,5 @@ constructor(){
 <p> today i have completed the js refresher training and headed towards understanding how react works and JSX as well. had a good practice on props again and how React.CreateElement works . </p>
 <h1>Day 11</h1>
 <p>Today i have gone through understanding props and state , Handling events with methods , Manipulating the states and using one of the react Hooks useState to change the state in a functional component and i have also checked the basics on stateless and statefull components.</p>
+<h1>Day 12</h1>
+<p>Today , i have learnt about two way binding and passing methods as reference between the components and i have completed my first assignment in the course.</p>
