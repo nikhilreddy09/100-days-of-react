@@ -127,3 +127,5 @@ constructor(){
 <p>Today i have gone through understanding props and state , Handling events with methods , Manipulating the states and using one of the react Hooks useState to change the state in a functional component and i have also checked the basics on stateless and statefull components.</p>
 <h1>Day 12</h1>
 <p>Today , i have learnt about two way binding and passing methods as reference between the components and i have completed my first assignment in the course.</p>
+<h1>Day 13</h1>
+<p>Today i have learnt about Rendering content conditionally in React using Ternary operators and the work flow of it.</p>
